@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nate
+- 👋 Hi, I’m Nathan
 -  I’m interested in creating opportunities for others to make Good choices.
 - 🌱 I’m currently learning Python, R, and how to take less space and make more for others. 
 - 💞️ I’m looking to collaborate on projects that impact more than the bottom line.
